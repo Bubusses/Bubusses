@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Bubusses
 - 👀 I’m interested in programming language
-- 🌱 I’m currently learning python , java , c
+- 🌱 I’m currently learning python , java , php
 - 💞️ I’m looking to collaborate on various projects
-- 📫 'mr_bilow' on instagram
+- 📫 'Alex.ebw1248@gmail.com' for mu email 
 - ⚡ Fun fact: HelloWorld!("print")
 
 <!---
